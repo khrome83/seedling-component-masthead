@@ -21,3 +21,10 @@ export default "https://raw.githubusercontent.com/use-seedling/seedling-componen
 ```
 
 **Note** - All remote components require the `--allow-net` command line parameter for Deno.
+
+**Special Thanks**
+
+This component is a sample from the truely excellent Tailwind UI. We sprinked some Alpine.js for interactivity.
+
+https://tailwindui.com/components/marketing/sections/heroes
+https://github.com/alpinejs/alpine/
